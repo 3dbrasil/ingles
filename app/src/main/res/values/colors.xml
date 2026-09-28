@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ocean_night_dark">#020617</color>
+    <color name="ocean_card_dark">#0B1120</color>
+    <color name="ocean_surface_dark">#0F172A</color>
+    <color name="ocean_blue">#2A7FFF</color>
+    <color name="ocean_teal">#00D4A0</color>
+    <color name="ocean_purple">#A855F7</color>
+    <color name="ocean_amber">#F59E0B</color>
+    <color name="ocean_border">#1E293B</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+</resources>

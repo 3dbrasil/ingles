@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dialogoo</string>
+    <string name="nav_map">Trilha</string>
+    <string name="nav_arena">Arena</string>
+    <string name="nav_repetition">Repetição</string>
+    <string name="nav_settings">Perfil</string>
+
+    <string name="hero_tagline">Sua jornada de fluência</string>
+    <string name="hero_title">Domine inglês, conversa por conversa</string>
+    <string name="hero_subtitle">Diálogos práticos, retorno fonético instantâneo e repetição espaçada inteligente.</string>
+
+    <string name="level_a1">Iniciante (A1)</string>
+    <string name="level_a2">Básico+ (A2)</string>
+    <string name="level_b1">Intermediário (B1)</string>
+    <string name="level_b2">Avançado- (B2)</string>
+    <string name="level_c1">Avançado (C1)</string>
+    <string name="level_c2">Maestria (C2)</string>
+
+    <string name="btn_start_lesson">Iniciar lição</string>
+    <string name="btn_practice_aria">Praticar com a Aria</string>
+    <string name="btn_completed">Concluído</string>
+    <string name="btn_listen">Ouvir</string>
+    <string name="btn_record">Gravar</string>
+    <string name="btn_stop">Parar</string>
+    <string name="btn_evaluate">Avaliar</string>
+    <string name="btn_type">Digitar</string>
+    <string name="btn_claim_xp">+20 XP</string>
+
+    <string name="aria_tutor_name">Aria AI</string>
+    <string name="aria_tutor_role">Tutora nativa de conversação</string>
+</resources>

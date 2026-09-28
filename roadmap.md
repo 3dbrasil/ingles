@@ -1,0 +1,2 @@
+- [x] Configure Google Gemini (gemini-3.5-flash) as the primary AI engine for tutor chat (Aria) and translations with Groq/NVIDIA fallback support.
+- [ ] Connect and migrate lessons, audio, and progress to a user-owned database / Firebase Firestore.
